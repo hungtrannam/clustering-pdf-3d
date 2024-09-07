@@ -1,4 +1,4 @@
-![GitHub top language](https://img.shields.io/github/languages/top/hungtrannam/clustering-pdf-3d )
+![GitHub top language](https://img.shields.io/github/languages/top/hungtrannam/clustering-pdf-3d)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hungtrannam/clustering-pdf-3d )
 [![GitHub contributors](https://img.shields.io/github/contributors/hungtrannam/clustering-pdf-3d )](https://github.com/hungtrannam/clustering-pdf-3d/graphs/contributors)
 
@@ -35,3 +35,22 @@ After applying the fuzzy clustering algorithm, the data points are grouped into 
 
 
 The clusters are visualized with both solid and dashed contours, showing the fitted cluster centers (solid lines) and the initial data points (dashed black lines). The soft boundaries between clusters allow the algorithm to account for data points that span multiple clusters.
+
+
+## Contact
+
+If you have any questions, bug reports, comments, code contribtions, or constructive discussions, please contact us at:
+
+✉️ E-mail: hung.trannam@vlu.edu.vn for questions, comments, and code contribtions
+
+✉️ Create new issue in [issues](https://github.com/hungtrannam/clustering-pdf-3d/issues) for constructive discussions and bug reports
+
+
+
+
+
+-----------
+
+
+
+Copyright [![CC-BY-4.0](https://github.com/hungtrannam/clustering-pdf-3d/blob/main/images/cc-by-40.png)] &copy; 2024, The MathWorks, Inc.
