@@ -51,6 +51,4 @@ If you have any questions, bug reports, comments, code contribtions, or construc
 
 -----------
 
-
-
-Copyright [![CC-BY-4.0](https://github.com/hungtrannam/clustering-pdf-3d/blob/main/images/cc-by-40.png)] &copy; 2024, The MathWorks, Inc.
+Copyright &copy; 2024, The MathWorks, Inc.
