@@ -1,6 +1,6 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/hungtrannam/clustering-pdf-3d )
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hungtrannam/clustering-pdf-3d )
-[![GitHub contributors](https://img.shields.io/github/contributors/hungtrannam/clustering-pdf-3d )](https://github.com/hungtrannam/clustering-pdf-3d /graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/hungtrannam/clustering-pdf-3d )](https://github.com/hungtrannam/clustering-pdf-3d/graphs/contributors)
 
 # Clustering 3D probability density functions 
 
