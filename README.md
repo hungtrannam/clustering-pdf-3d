@@ -1,4 +1,15 @@
+![GitHub top language](https://img.shields.io/github/languages/top/hungtrannam/clustering-pdf-3d )
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hungtrannam/clustering-pdf-3d )
+[![GitHub contributors](https://img.shields.io/github/contributors/hungtrannam/clustering-pdf-3d )](https://github.com/hungtrannam/clustering-pdf-3d /graphs/contributors)
+
 # Clustering 3D probability density functions 
+
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UniprJRC/FSDA&project=FSDA.prj)
+[![GNU Octave](https://img.shields.io/badge/Powered_by-GNU_Octave-blue.svg)](https://www.gnu.org/software/octave/)
+
+
+
 
 This package implements a clustering algorithm based on Fuzzy Clustering, k-mean, k-medoids and possibilistic c-mean, specifically designed for 3D gaussian distributions. This method is particularly effective for applications involving uncertain or overlapping data boundaries.
 
